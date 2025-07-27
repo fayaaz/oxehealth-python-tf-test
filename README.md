@@ -34,4 +34,4 @@ Commented 2 days ago
 
 - I also had to use Python 3.12 as Python 3.13 and the pillow library did not work with lambda and layers. 
 
-- Depending on the size of the images the 128MB of lambda memory may be insufficient to do the processing.
+- Depending on the size of the images the default 128MB of lambda memory may be insufficient to do the processing.
