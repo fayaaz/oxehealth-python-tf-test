@@ -1,0 +1,7 @@
+services:
+  opentofu:
+    build: .
+    volumes:
+    - ./:/app
+    working_dir: /app/tf
+    env_file: .env
