@@ -6,6 +6,7 @@ to strip exif data from .jpg uploaded to bucket.
 ## Quick start
 
 Install docker and docker-compose-v2
+
 Create the .env file and add your credentials if needed
 `touch .env`
 
