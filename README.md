@@ -3,8 +3,10 @@
 ## Quick start
 
 Install docker and docker-compose-v2
-Build the containers locally to get started
+Create the .env file and add your credentials if needed
+`touch .env`
 
+Build the containers locally to get started
 `docker compose build`
 
 Run opentofu plan

@@ -10,3 +10,7 @@ lambda_function.zip
 lambda_layer.zip
 
 src/layer/python
+
+
+# Don't commit env file
+.env
